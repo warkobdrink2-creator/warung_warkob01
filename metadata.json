@@ -1,0 +1,6 @@
+{
+  "name": "Antrian Warung",
+  "description": "Aplikasi web modern untuk mengelola antrean pelanggan, pesanan makanan/minuman, pembayaran, stok, dapur, dan laporan operasional warung secara realtime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
